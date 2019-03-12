@@ -1,0 +1,7 @@
+C:\Users\azat\source\repos\HomeWorkIndex\HomeWorkIndex\bin\Debug\HomeWorkIndex.exe.config
+C:\Users\azat\source\repos\HomeWorkIndex\HomeWorkIndex\bin\Debug\HomeWorkIndex.exe
+C:\Users\azat\source\repos\HomeWorkIndex\HomeWorkIndex\bin\Debug\HomeWorkIndex.pdb
+C:\Users\azat\source\repos\HomeWorkIndex\HomeWorkIndex\obj\Debug\HomeWorkIndex.csprojAssemblyReference.cache
+C:\Users\azat\source\repos\HomeWorkIndex\HomeWorkIndex\obj\Debug\HomeWorkIndex.csproj.CoreCompileInputs.cache
+C:\Users\azat\source\repos\HomeWorkIndex\HomeWorkIndex\obj\Debug\HomeWorkIndex.exe
+C:\Users\azat\source\repos\HomeWorkIndex\HomeWorkIndex\obj\Debug\HomeWorkIndex.pdb
